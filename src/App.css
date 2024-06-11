@@ -1,0 +1,4 @@
+#homePage {
+  background-image: url("./images/homePageLogo.jpg");
+  object-fit: contain;
+}
